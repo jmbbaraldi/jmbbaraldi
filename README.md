@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9124cc&height=120&section=header"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jmbbaraldi&show_icons=true&count_private=true&hide_border=true&title_color=9124cc&icon_color=9124cc&text_color=c9d1d9&bg_color=0d1117" alt="João Baraldi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbbaraldi&layout=compact&hide_border=true&title_color=9124cc&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-three-lime-52.vercel.app/api?username=jmbbaraldi&show_icons=true&count_private=true&hide_border=true&title_color=9124cc&icon_color=9124cc&text_color=c9d1d9&bg_color=0d1117" alt="João Baraldi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-three-lime-52.vercel.app/api/top-langs/?username=jmbbaraldi&layout=compact&hide_border=true&title_color=9124cc&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jmbbaraldi&bg_color=0d1117&color=9124cc&line=9124cc&point=e6e5cb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
